@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-   <?php foreach($data as $item){ ?>
-    <div><?php echo $item['Name'] ?></div> 
-    <?php } ?>
+     
+    <a href="users/register"> <button>إنشاء حساب جديد</button></a>
 </body>
 </html>
